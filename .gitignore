@@ -1,0 +1,13 @@
+.streamlit/secrets.toml
+*.xlsx
+*.xls
+Resúmenes/
+Formatos/
+.evaluation_work/
+.review_temp/
+.review_tools/
+outputs/
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
